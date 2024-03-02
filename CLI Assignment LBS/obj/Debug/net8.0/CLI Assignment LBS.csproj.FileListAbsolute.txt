@@ -1,0 +1,22 @@
+C:\Users\Lenovo\source\repos\CLI Assignment LBS\bin\Debug\net8.0\CLI Assignment LBS.exe
+C:\Users\Lenovo\source\repos\CLI Assignment LBS\bin\Debug\net8.0\CLI Assignment LBS.deps.json
+C:\Users\Lenovo\source\repos\CLI Assignment LBS\bin\Debug\net8.0\CLI Assignment LBS.runtimeconfig.json
+C:\Users\Lenovo\source\repos\CLI Assignment LBS\bin\Debug\net8.0\CLI Assignment LBS.dll
+C:\Users\Lenovo\source\repos\CLI Assignment LBS\bin\Debug\net8.0\CLI Assignment LBS.pdb
+C:\Users\Lenovo\source\repos\CLI Assignment LBS\obj\Debug\net8.0\CLI Assignment LBS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\CLI Assignment LBS\obj\Debug\net8.0\CLI Assignment LBS.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CLI Assignment LBS\obj\Debug\net8.0\CLI Assignment LBS.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\CLI Assignment LBS\obj\Debug\net8.0\CLI Assignment LBS.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CLI Assignment LBS\obj\Debug\net8.0\CLI Assignment LBS.dll
+C:\Users\Lenovo\source\repos\CLI Assignment LBS\obj\Debug\net8.0\refint\CLI Assignment LBS.dll
+C:\Users\Lenovo\source\repos\CLI Assignment LBS\obj\Debug\net8.0\CLI Assignment LBS.pdb
+C:\Users\Lenovo\source\repos\CLI Assignment LBS\obj\Debug\net8.0\CLI Assignment LBS.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\CLI Assignment LBS\obj\Debug\net8.0\ref\CLI Assignment LBS.dll
+C:\Users\Lenovo\source\repos\CLI Assignment LBS\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\CLI Assignment LBS\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Lenovo\source\repos\CLI Assignment LBS\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Lenovo\source\repos\CLI Assignment LBS\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Lenovo\source\repos\CLI Assignment LBS\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\CLI Assignment LBS\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\CLI Assignment LBS\obj\Debug\net8.0\CLI Assignment LBS.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\CLI Assignment LBS\obj\Debug\net8.0\CLI Assignment LBS.csproj.CopyComplete
